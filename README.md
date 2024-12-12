@@ -17,5 +17,8 @@ Car_Name	Year	Selling_Price	Present_Price	Driven_kms	Fuel_Type	Selling_type	Tran
 3	wagon r	2011	2.85	4.15	5200	Petrol	Dealer	Manual	0
 4	swift	2014	4.60	6.87	42450	Diesel	Dealer	Manual	0
 
+![car img](https://github.com/user-attachments/assets/fdbf41ca-8d3e-4633-84ff-7a4fde8ee6a7)
+
+
 
 
